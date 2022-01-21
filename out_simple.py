@@ -1,0 +1,8 @@
+print('Hello')
+print('Hello World!')
+print('symbol, 145, gflgh')
+print(100)
+print(90.89)
+print(True)
+print(False)
+print(None)
