@@ -1,5 +1,5 @@
 friends = ['Максим', 'Леонид', 'Екатерина']
-print(friends
+print(friends)
 print('Количество друзей', len(friends))
 
 friends.append('Роберт')
